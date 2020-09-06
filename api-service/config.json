@@ -1,0 +1,13 @@
+{"appPort": 3000,
+"mongoUrl": "mongodb://localhost:27017/role_management",
+"success":{
+    "message": "Operation Successfull",
+    "status" : "success",
+    "data"  : {}
+},
+"error":{
+    "message": "Operation Failed",
+    "status" : "failed",
+    "data"  : {}
+}
+}
